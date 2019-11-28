@@ -11,6 +11,8 @@ public class SpringStartProjectApplication {
 
 		SpringApplication.run(SpringStartProjectApplication.class, args);
 
+		/*https://www.baeldung.com/spring-boot-start*/
+
 	}
 
 }
